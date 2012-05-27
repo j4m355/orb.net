@@ -15,6 +15,6 @@ Technology:
 -----------
 Code converted to c# from original vb project.  Half the code now uses the old stuff while a lot of refactoring has taken place to try and streamline the code.
 Rest Sharp is used to communicate with the api and serialise the responses into nice data models for easy use in your .net applications.
-----------
+
 
 All of the basic stuff is there the project just needs time to be completed - but so far you can authenticate, keep session alive, search and sort media, and most importantly - play media
